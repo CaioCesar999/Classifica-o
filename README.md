@@ -1,4 +1,4 @@
-# Classifica-o
+# Classificação
 KNN
 
 Encontrar os melhores potenciais clientes.
